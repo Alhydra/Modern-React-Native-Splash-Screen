@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "react-native-splash",
-    "slug": "react-native-splash",
+    "name": "Modern React Native Splash Screen Design",
+    "slug": "modern-react-native-splash-screen-design",
+    "description": "In this Project we're going to explore How to make a Modern React Native Splash Screen Design, and I have written a depth guide with examples in my Blog https://reactntativemaster.com, for future references. You can check the full Article here. https://reactnativemaster.com/modern-react-native-splash-screen-design/",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
